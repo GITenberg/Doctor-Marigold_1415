@@ -1,0 +1,33 @@
+_repo: Doctor-Marigold_1415
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: Craving some feel-good fiction? Curl up with "Doctor Marigold," a heartwarming
+  tale from the pen of beloved author Charles Dickens. The story follows the tragedies
+  and triumphs of a street vendor who loses a child and then adopts a young deaf girl
+  and raises her to adulthood. The story is both a masterpiece of social realism and
+  a reminder of the inherent potential inside every person.
+gutenberg_issued: '1998-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'Christmas stories'
+- !lcsh 'Adoptive parents -- Fiction'
+- !lcsh 'Deaf children -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Doctor Marigold
+url: http://www.gutenberg.org/ebooks/1415
